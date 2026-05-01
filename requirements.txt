@@ -1,0 +1,9 @@
+Flask
+Werkzeug
+numpy
+pandas
+tensorflow
+scikit-learn
+joblib
+plotly
+gunicorn
